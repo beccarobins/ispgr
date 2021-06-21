@@ -1,9 +1,5 @@
 # ISPGR
 
-## Jargon
-* PR: pull request
-* Git
-
 ## Help create the ISPGR dataset
 ### Tools needed
 * Google Sheets or Excel
@@ -23,3 +19,8 @@
 
 ## Want to improve the code you've seen here?
 I would like that too! Please create either a new branch or a fork of this repository and assign pull PRs to `@beccarobins`. I will review and merge in any updates that improve the usability or output of the scripts.
+
+
+#### Jargon
+* PR: pull request
+* Git
